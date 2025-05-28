@@ -28,7 +28,8 @@
         </div>
     </header>
     <main class="container mt-5">
-        <h2>Meus projetos</h2>https://github.com/alura-cursos/portfolio-de-projetos/commit/41d3002e1c095cf458e61a857e3320b2ccd2b872#diff-60716dd4799bf72e57c4662e0e0f145d859fabe2c2062e13bcd28f62b3464700
+        <h2>Meus projetos</h2>![image](https://github.com/user-attachments/assets/b48f049a-58fc-4aec-9db0-59422dad402c)
+
         <div class="row">
             <!-- Projeto 1 -->
             <div class="col-md-4">
