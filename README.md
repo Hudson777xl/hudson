@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="style.css">
     <title>img/Meu portfólio<title>
+        
 </head>https://github.com/alura-cursos/portfolio-de-projetos/commit/41d3002e1c095cf458e61a857e3320b2ccd2b872#diff-bcb9d9d07cc16969a9566301329e2c94cad8e5cb76735f9d52f8a865870842d2
 
 <body>
