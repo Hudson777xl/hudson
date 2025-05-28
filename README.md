@@ -28,7 +28,8 @@
         </div>
     </header>
     <main class="container mt-5">
-        <h2>Meus projetos</h2>![image]![image](https://github.com/user-attachments/assets/f4b42626-c928-402a-93f4-912e77572f4a)
+        <h2>Meus projetos</h2>![image]![image]![image](https://github.com/user-attachments/assets/d4ecb663-9ffb-4095-a5a7-6a4c60e70936)
+
 
 
         <div class="row">
