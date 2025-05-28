@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="style.css">
     <title>img/Meu portfólio<title>        
-    </head> https://github.com/alura-cursos/portfolio-de-projetos/commit/41d3002e1c095cf458e61a857e3320b2ccd2b872#diff-60716dd4799bf72e57c4662e0e0f145d859fabe2c2062e13bcd28f62b3464700
-<body>
+</head> 
+<body>https://github.com/alura-cursos/portfolio-de-projetos/commit/41d3002e1c095cf458e61a857e3320b2ccd2b872#diff-60716dd4799bf72e57c4662e0e0f145d859fabe2c2062e13bcd28f62b3464700
     <header class="container text-center">
         <img src="[img/avatar-perfil.png]alt="avatar do Hudson" class="rounded-circle" width="150" height="150"
             srcset="">
