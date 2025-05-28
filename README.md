@@ -8,13 +8,11 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="style.css">
-    <title>img/Meu portfólio<title>
-        
-</head>https://github.com/alura-cursos/portfolio-de-projetos/commit/41d3002e1c095cf458e61a857e3320b2ccd2b872#diff-bcb9d9d07cc16969a9566301329e2c94cad8e5cb76735f9d52f8a865870842d2
-
+    <title>img/Meu portfólio<title>        
+    </head>
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar do Hudson" class="rounded-circle" width="150" height="150"
+        <img src="[img/avatar-perfil.png](https://github.com/alura-cursos/portfolio-de-projetos/commit/41d3002e1c095cf458e61a857e3320b2ccd2b872#diff-b183787966173fc96364d696ccda33b49c77598cf825d4e3fc2b70d0f6dd20cf)" alt="avatar do Hudson" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">Eu sou Hudson</p>
         <h1>Eu Estudo Programação</h1>
