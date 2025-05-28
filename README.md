@@ -13,8 +13,7 @@
 
 <body>
     <header class="container text-center">
-        <img src="![Uploading image.png…]()
-" alt="Avatar do Hudson" class="rounded-circle" width="150" height="150"
+        <img src="img/avatar-perfil.png" alt="Avatar do Hudson" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">CONHECIMENTOS </p>
         <h1>Eu Estudo Programação</h1>
