@@ -1,17 +1,19 @@
 # Hudson
 <!DOCTYPE html>
 <html lang="pt-br">
-    <head>
+
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="style.css">
-    <title>img/Meu portfólio<title>        
-</head> 
+    <title>Meu portfólio</title>
+</head>
+
 <body>
     <header class="container text-center">
-        <img src="[img/avatar-perfil.png]alt="avatar do Hudson" class="rounded-circle" width="150" height="150"
+        <img src="img/avatar-perfil.png" alt="Avatar do Hudson" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">CONHECIMENTOS </p>
         <h1>Eu Estudo Programação</h1>
