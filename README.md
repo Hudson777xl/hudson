@@ -8,14 +8,14 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="style.css">
-    <title>Meu portfólio<title>
+    <title>img/avatar-perfil.png<title>
 </head>
 
 <body>
     <header class="container text-center">
         <img src="img/avatar-perfil.png" alt="avatar do Hudson" class="rounded-circle" width="150" height="150"
             srcset="">
-        <p class="lead">Eu sou Hudson_</p>
+        <p class="lead">Eu sou Hudson</p>
         <h1>Eu Estudo Programação</h1>
         <p>Sou Aluno do José Conti do Ensino Medio.Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos
             que já desenvolvi!</p>
